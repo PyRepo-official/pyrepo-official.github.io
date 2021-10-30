@@ -1,1 +1,1 @@
-var last_version = "1.0.0";
+var last_version = "2.0.0";
